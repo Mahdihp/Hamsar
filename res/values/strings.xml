@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hamsar</string>
+    <string name="Mal_Name">نام آقا</string>
+    <string name="Famel_Name">نام خانم</string>
+</resources>
